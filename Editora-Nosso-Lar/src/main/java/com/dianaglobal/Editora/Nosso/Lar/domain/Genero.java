@@ -1,4 +1,4 @@
-package com.dianaglobal.Editora.Nosso.Lar.dto;
+package com.dianaglobal.Editora.Nosso.Lar.domain;
 
 public enum Genero {
     FICCAO,

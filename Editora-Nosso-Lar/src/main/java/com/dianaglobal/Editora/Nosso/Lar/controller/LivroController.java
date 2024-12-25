@@ -1,6 +1,6 @@
 package com.dianaglobal.Editora.Nosso.Lar.controller;
 
-import com.dianaglobal.Editora.Nosso.Lar.dto.LivroDTO;
+import com.dianaglobal.Editora.Nosso.Lar.domain.LivroDTO;
 import com.dianaglobal.Editora.Nosso.Lar.service.LivroService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

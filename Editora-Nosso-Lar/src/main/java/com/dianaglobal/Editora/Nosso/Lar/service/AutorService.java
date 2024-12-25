@@ -1,6 +1,6 @@
 package com.dianaglobal.Editora.Nosso.Lar.service;
 
-import com.dianaglobal.Editora.Nosso.Lar.dto.AutorDTO;
+import com.dianaglobal.Editora.Nosso.Lar.domain.AutorDTO;
 import com.dianaglobal.Editora.Nosso.Lar.model.Autor;
 import com.dianaglobal.Editora.Nosso.Lar.repository.AutorRepository;
 import org.springframework.beans.factory.annotation.Autowired;

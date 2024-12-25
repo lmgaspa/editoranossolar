@@ -1,6 +1,6 @@
 package com.dianaglobal.Editora.Nosso.Lar.model;
 
-import com.dianaglobal.Editora.Nosso.Lar.dto.Genero;
+import com.dianaglobal.Editora.Nosso.Lar.domain.Genero;
 import jakarta.persistence.*;
 import lombok.Data;
 import lombok.NoArgsConstructor;

@@ -1,6 +1,6 @@
 package com.dianaglobal.Editora.Nosso.Lar.service;
 
-import com.dianaglobal.Editora.Nosso.Lar.dto.LivroDTO;
+import com.dianaglobal.Editora.Nosso.Lar.domain.LivroDTO;
 import com.dianaglobal.Editora.Nosso.Lar.model.Autor;
 import com.dianaglobal.Editora.Nosso.Lar.model.Livro;
 import com.dianaglobal.Editora.Nosso.Lar.repository.AutorRepository;

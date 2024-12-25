@@ -1,4 +1,4 @@
-package com.dianaglobal.Editora.Nosso.Lar.dto;
+package com.dianaglobal.Editora.Nosso.Lar.domain;
 
 import lombok.Data;
 import java.util.UUID;

@@ -6,6 +6,7 @@ import ContatoView from "../views/ContatoView.vue";
 import CarrinhoView from "../views/CarrinhoView.vue";
 import LoginView from "../views/LoginView.vue";
 import RegisterView from "../views/RegisterView.vue";
+import CheckoutButtonView from "../views/CheckoutButtonView.vue";
 
 const routes = [
   { path: "/", name: "Home", component: HomeView },
@@ -15,6 +16,7 @@ const routes = [
   { path: "/carrinho", name: "Carrinho", component: CarrinhoView },
   { path: "/login", name: "Login", component: LoginView },
   { path: "/register", name: "Register", component: RegisterView },
+  { path: "/checkoutbutton", name: "CheckoutButton", component: CheckoutButtonView },
 ];
 
 const router = createRouter({
