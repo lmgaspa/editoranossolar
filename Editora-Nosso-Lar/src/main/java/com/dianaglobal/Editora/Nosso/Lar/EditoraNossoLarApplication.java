@@ -9,4 +9,3 @@ public class EditoraNossoLarApplication {
 		SpringApplication.run(EditoraNossoLarApplication.class, args);
 	}
 }
-

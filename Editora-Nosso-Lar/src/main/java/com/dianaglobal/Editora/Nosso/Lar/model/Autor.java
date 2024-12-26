@@ -9,6 +9,7 @@ import java.util.UUID;
 @Entity
 @Data
 @NoArgsConstructor
+@Table(name = "tb_autores")
 public class Autor {
 
     @Id
